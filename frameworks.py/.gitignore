@@ -1,5 +1,5 @@
 # Ignore Kaggle credentials
-.kaggle/
+.kaggle/kaggle.json
 
 # Ignore dataset files
 metadata.csv
