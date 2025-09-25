@@ -1,0 +1,13 @@
+# Ignore Kaggle credentials
+.kaggle/
+
+# Ignore dataset files
+metadata.csv
+*.zip
+
+# Ignore untracked assignments
+Framework_assignment/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
